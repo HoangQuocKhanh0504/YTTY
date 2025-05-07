@@ -20,4 +20,4 @@ RUN npm install
 EXPOSE 3000
 
 # Chạy ứng dụng khi container được khởi động
-CMD ["node", "index.js"]
+CMD ["node", "server.js"]
